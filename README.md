@@ -10,7 +10,7 @@ Following are used
 - Hibernate
 - MySql
 
-Usage
+### Usage
 
 mvn clean
 
