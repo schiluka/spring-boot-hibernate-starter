@@ -19,3 +19,8 @@ mvn compile
 mvn install -DskipTests
 
 java -jar `<jar file name> <number of rows>`
+
+
+### ToDo
+
+- Add Unit tests
